@@ -7,8 +7,6 @@ This repository contains a Python script and Jupyter Notebook for scraping start
 - [Dataset](#dataset)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ## Introduction
