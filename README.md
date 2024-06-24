@@ -22,9 +22,7 @@ The dataset generated from this project includes:
 - Additional details from their profile pages
 
 The dataset can be accessed from multiple platforms:
-- **Kaggle**: [NIC Startups Data](URL_TO_YOUR_KAGGLE_DATASET)
 - **GitHub**: [NIC Startups Data](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/blob/main/NIC_startups_data.csv)
-- **Google Drive**: [NIC Startups Data](LINK_TO_GOOGLE_DRIVE_FILE)
 
 ## Installation
 To run the script and notebook in this repository, you'll need to have Python and the following libraries installed:
