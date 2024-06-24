@@ -36,13 +36,14 @@ You can install the required libraries using pip:
 
 ```bash
 pip install numpy pandas requests beautifulsoup4
-
+```
 
 ## Usage
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
    cd YOUR_REPOSITORY
+   ```
 
 2. Run the Jupyter Notebook:
 
@@ -55,7 +56,7 @@ Alternatively, you can run the Python script scrape_nic_data.py directly:
 
 ```bash
 python scrape_nic_data.py
-
+```
 4. Access the Data:
 
 Once the script or notebook has been executed, the scraped data will be saved as NIC_startups_data.csv in the project directory.
