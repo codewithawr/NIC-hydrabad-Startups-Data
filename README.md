@@ -63,5 +63,6 @@ Once the script or notebook has been executed, the scraped data will be saved as
 You can open this CSV file using any spreadsheet software or load it into a data analysis tool such as Pandas for further analysis.
 
 ## Acknowledgements
-Thanks to the National Incubation Center (NIC) Hyderabad for providing access to the startup information.
-This project uses the following libraries: NumPy, Pandas, Requests, and BeautifulSoup.
+- Thanks to the National Incubation Center (NIC) Hyderabad for providing access to the startup information.
+- This project uses the following libraries: NumPy, Pandas, Requests, and BeautifulSoup.
+
