@@ -19,7 +19,7 @@ The dataset generated from this project includes:
 - Cohort numbers
 - Additional details from their profile pages
 
-The dataset can be accessed from **GitHub**: [NIC Startups Data](https://github.com/codewithawr/NIC-hydrabad-Startups-Data)
+The dataset can be accessed from **GitHub**: [NIC Startups Data](https://github.com/codewithawr/NIC-hydrabad-Startups-data)
 
 ## Installation
 To run the script and notebook in this repository, you'll need to have Python and the following libraries installed:
